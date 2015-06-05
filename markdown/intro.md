@@ -19,7 +19,6 @@ Just don't. <!-- .element class="fragment" -->
 Please. <!-- .element class="fragment" -->
 
 
-
 Let's get another thing out of the way.
 
 
@@ -47,3 +46,20 @@ Which is our preferred
 Which is our preferred
 ## deployment automation
 system?
+
+
+And finally...
+
+
+This is an
+## overview
+
+
+Not a
+### technical deep dive
+
+
+With that,
+
+let's get
+## rolling
