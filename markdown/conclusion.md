@@ -8,5 +8,3 @@ Trademarks or registered trademarks used in this presentation are the property o
 
 <!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
 [`https://www.hastexo.com/openstack`](openstack://www.hastexo.com/openstack)
-
-
