@@ -35,8 +35,6 @@ Enter
 
 
 <!-- .slide: data-background-iframe="https://susestudio.com/a/Mrr6vv/suse-openstack-cloud-4-admin--2" data-background-size="contain" -->
-# Alas, <!-- .element class="fragment" -->
-### no SUSE Cloud 5 <!-- .element class="fragment" -->
 
 
 Deployment checklist
