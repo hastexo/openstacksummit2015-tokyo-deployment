@@ -4,7 +4,10 @@ deployment:
 
 A comparison
 
-Florian Haas, [`florian@hastexo.com`](mailto:florian@hastexo.com)
+[`florian.haas@hastexo.com`](mailto:florian.haas@hastexo.com)
+
+[`@xahteiwi`](https://twitter.com/xahteiwi) | [`@hastexo`](https://twitter.com/hastexo)
+
 
 
 Let's get one thing out of the way.
