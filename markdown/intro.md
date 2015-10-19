@@ -48,7 +48,7 @@ Which is our preferred
 system?
 
 
-And finally...
+Also...
 
 
 This is an
@@ -57,6 +57,13 @@ This is an
 
 Not a
 ### technical deep dive
+
+
+And finally:
+
+
+<!-- .slide: data-background-image="images/strong-opinions.svg" data-background-size="contain" -->
+### (Strong opinions) <!-- .element: class="fragment" -->
 
 
 With that,
