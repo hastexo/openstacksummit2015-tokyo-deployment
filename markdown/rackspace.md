@@ -1,5 +1,4 @@
 <!-- .slide: data-background-image="images/rackspace-logo.svg" data-background-size="contain" -->
-### Rackspace Private Cloud <!-- .element class="fragment" -->
 Note: RPC v10 is based on Juno; RPC v11 on Kilo. Most documentation on
 docs.rackspace.com is currently available for v10; the v11
 documentation is only available from GitHub at
