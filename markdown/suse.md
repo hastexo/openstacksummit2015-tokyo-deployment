@@ -33,7 +33,7 @@ Enter
 ## SUSE Studio
 
 
-<!-- .slide: data-background-iframe="https://susestudio.com/a/Mrr6vv/suse-openstack-cloud-4-admin--2" data-background-size="contain" -->
+<!-- .slide: data-background-iframe="https://susestudio.com/a/Mrr6vv/suse-openstack-cloud-5-admin" data-background-size="contain" -->
 
 
 Deployment checklist
