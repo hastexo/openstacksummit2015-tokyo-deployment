@@ -4,45 +4,38 @@ Note:
 
 
 <!-- .slide: data-background-image="images/redhat-logo.svg" data-background-size="contain" -->
-### Upgrades supported
 
 
-<!-- .slide: data-background-image="images/redhat-logo.svg" data-background-size="contain" -->
-### Semi-automatic
-
-
-<!-- .slide: data-background-image="images/redhat-logo.svg" data-background-size="contain" -->
-### Staggered service updates
-Note: Control services first, then compute
+<!-- .slide: data-background-image="https://media.giphy.com/media/ALvdHigd2gBqw/giphy.gif" data-background-size="cover" -->
 
 
 <!-- .slide: data-background-image="images/ubuntu-logo.svg" data-background-size="contain" -->
+
+
 ### Upgrades supported
 ### `juju set`
 
 
-<!-- .slide: data-background-image="images/ubuntu-logo.svg" data-background-size="contain" -->
 ### (Almost) fully automatic
 ```yaml
-openstack-origin: cloud:trusty-kilo/updates
+openstack-origin: cloud:trusty-liberty/updates
 ```
 
 
-<!-- .slide: data-background-image="images/ubuntu-logo.svg" data-background-size="contain" -->
 ### Staggered service updates
 Note: Control services first, then compute
 
 
 <!-- .slide: data-background-image="images/suse-logo.svg" data-background-size="contain" -->
+
+
 ### Upgrades supported
 
 
-<!-- .slide: data-background-image="images/suse-logo.svg" data-background-size="contain" -->
 ### Semi-automatic
 ### `suse-cloud-upgrade`
 
 
-<!-- .slide: data-background-image="images/suse-logo.svg" data-background-size="contain" -->
 ### *"Stop the world"*
 Note: For SUSE Cloud 4 to 5 upgrades, caveats apply:
 
@@ -60,13 +53,13 @@ Reference: https://www.suse.com/documentation/suse-cloud-5/book_cloud_deploy/dat
 
 
 <!-- .slide: data-background-image="images/rackspace-logo.svg" data-background-size="contain" -->
+
+
 ### Upgrades supported
 
 
-<!-- .slide: data-background-image="images/rackspace-logo.svg" data-background-size="contain" -->
 ### Fully automatic
 ### `run-upgrade.sh`
 
 
-<!-- .slide: data-background-image="images/rackspace-logo.svg" data-background-size="contain" -->
 ### No impact on VMs
