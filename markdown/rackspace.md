@@ -20,9 +20,9 @@ Deployment checklist
 
 
 ```sh
-cd /opt
-git clone https://github.com/stackforge/os-ansible-deployment.git
-pip install -r /opt/os-ansible-deployment/requirements.txt
+git clone https://github.com/openstack/openstack-ansible.git /opt/openstack-ansible
+cd /opt/openstack-ansible
+scripts/bootstrap-ansible.sh
 ```
 
 
