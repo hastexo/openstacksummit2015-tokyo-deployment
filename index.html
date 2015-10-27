@@ -96,7 +96,7 @@ Reveal.initialize({
     backgroundTransition: Reveal.getQueryHash().backgroundTransition || 'none', // default/cube/page/concave/zoom/linear/fade/none
 
     multiplex: {
-	secret: '14459237604644125817',
+	secret: null,
 	id: '730de513ebdd63e7',
 	url: 'revealjs.jit.su'
     },
@@ -110,7 +110,7 @@ Reveal.initialize({
 	{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
 	{ src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
 	{ src: '//cdn.socket.io/socket.io-1.3.5.js', async: true },
-	{ src: 'plugin/multiplex/master.js', async: true },
+	{ src: 'plugin/multiplex/client.js', async: true },
     ]
 });
     </script>
